@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @thulasipavankumar
 - 👀 I’m interested in anime and cooking
-- 🌱 I’m currently learning 
-  
-  
-  ![gloang](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/768px-Go_Logo_Blue.svg.png)
+- 🌱 I’m currently learning Go ![gloang](https://go.dev/doc/gopher/doc.png)
+- [Linkedin](https://www.linkedin.com/in/pavan-kumar-tulasi-79977870/)
 
 
 <!---
