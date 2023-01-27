@@ -17,7 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=thulasipavankumar&style=flat-square&color=blue" alt=""/>
  </div>
 <div align="center">
-  <img src="https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/200w.webp?cid=ecf05e473svf7ev6r83pcsa6jopkmin9ff3tj56do72dk4xt&rid=200w.webp&ct=g" width="600" height="300"/>
+  <img src="https://github.com/thulasipavankumar/thulasipavankumar/blob/main/Pavan%20Kumar%20tulasi.png" width="600" height="300"/>
 </div>
 
 ---
